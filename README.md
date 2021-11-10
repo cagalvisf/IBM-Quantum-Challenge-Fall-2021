@@ -5,4 +5,4 @@ This repository has been made for documating my performance in the [IBM Quantum 
 In order to be prepared for the challenge, there are 2 lectures for learning how to use the necessary Qiskit's applications modules:
 
 * [x] Part 1: [Qiskit Optimization & Machine Learning Demo Session with Atsushi Matsuo & Anton Dekusar.](https://www.youtube.com/watch?v=claoY57eVIc)
-* [ ] Part 2: [Qiskit Nature & Finance Demo Session with Max Rossmannek & Julien Gacon.](https://www.youtube.com/watch?v=UtMVoGXlz04)
+* [x] Part 2: [Qiskit Nature & Finance Demo Session with Max Rossmannek & Julien Gacon.](https://www.youtube.com/watch?v=UtMVoGXlz04)
